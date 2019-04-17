@@ -18,7 +18,7 @@ email: info@ccmutual.com
 description: >- # this means to ignore newlines until "baseurl:"
   CCM offers our partners a strategic approach to investing across a wide range
   of asset classes.
-baseurl: "cc_m" # the subpath of your site, e.g. /blog
+baseurl: "www.ccmutual.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: CC_Mutual
 github_username:  CCMutual
