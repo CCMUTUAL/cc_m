@@ -4,7 +4,6 @@ title: "Our Thesis"
 date:   2019-01-23 13:04:48 -0700
 categories: CCM
 ---
-CCM Thesis
 
 We work out the explicit formulae of the convex lower bounds, by which we propose an analytical approximate 
 capital allocation rule based on the conditional tail expectation. We conduct stress tests to show that our method is 
