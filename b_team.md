@@ -16,7 +16,7 @@ permalink: /team/
 # Lead Software Engineer: 
 *Nathan Turner*
 
-# Accounting: 
+# Fund Administration: 
 *Robert Nelson, CPA, MBA*
 
 # Software Engineer: 
