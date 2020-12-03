@@ -1,14 +1,12 @@
 ---
 layout: page
 title: "Our Thesis"
-date:   2019-01-23 13:04:48 -0700
+date:   2020-01-23 13:04:48 -0700
 categories: CCM
 ---
 # CCM Thesis
 
-We work out the explicit formulae of the convex lower bounds, by which we propose an analytical approximate 
-capital allocation rule based on the conditional tail expectation. We conduct stress tests to show that our method is 
-robust across various dependence structures
+Decentralization of the internet and its underlying technologies is significantly reducing the production costs of information networks. Cryptonetworks accomplish this by trust minimization, decentralized coordination, and universal financial incentives. Our sourcing and selection process begin with our investment thesis. We focus on trading and investing in (1) Open Financial Systems (2) Web 3.0 (3) Trust Minimized Money.
 
 
 Owning a crypto asset is essentially owning a call option on the right to use or contribute to the product if the token 
